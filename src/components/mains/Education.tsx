@@ -78,7 +78,7 @@ export default function Education(){
                             </ul>
                 </StyledLeft>
                 <StyledRight>
-                    <img className="bu-logo" src="../../../public/bu-logo.png" alt="BU Logo"/>
+                    <img className="bu-logo" src="/bu-logo.png" alt="BU Logo"/>
                 </StyledRight>
             </StyledContainer>
         </StyledMain>
