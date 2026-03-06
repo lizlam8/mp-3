@@ -38,7 +38,7 @@ export default function Home() {
             <title>Home | Elizabeth's Resume</title>
             <StyledHome><strong><u>Home</u></strong></StyledHome>
 
-            <img src="public/profile.jpg" alt="Elizabeth Lam's Profile Picture" />
+            <img src="/profile.jpg" alt="Elizabeth Lam's Profile Picture" />
 
             <br />
 
