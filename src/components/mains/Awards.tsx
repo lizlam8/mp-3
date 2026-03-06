@@ -32,7 +32,7 @@ export default function Awards(){
 
             <img
                 className="award-logo"
-                src="../../../public/nyssealofbiliteracy.jpg"
+                src="/nyssealofbiliteracy.jpg"
                 alt="New York State Seal of Biliteracy Recipient logo"
             />
             <h5>
@@ -41,7 +41,7 @@ export default function Awards(){
                 Nanomaterials Users’ Meeting
             </h5>
 
-            <img className="award-logo" src="../../../public/bnl-logo.png" alt="Brookhaven National Laboratory logo"/>
+            <img className="award-logo" src="/bnl-logo.png" alt="Brookhaven National Laboratory logo"/>
         </StyledMain>
     )
 }
