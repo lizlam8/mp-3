@@ -73,12 +73,12 @@ export default function Leadership(){
                 <br/>
                 <StyledBox>
                     <img
-                        src="../../../public/bakesale.JPEG"
+                        src="/bakesale.JPEG"
                         alt="American Cancer Society on Campus Bake Sale"
                     />
 
                     <img
-                        src="../../../public/msabc.jpg"
+                        src="/msabc.jpg"
                         alt="American Cancer Society on Campus at Making Strides Against Breast Cancer Event"
                     />
                 </StyledBox>
