@@ -21,7 +21,7 @@ const StyledMain = styled.main`
     text-align: center;
     width: 70%;
     font-size: calc(2px + 1.4vw);
-    background-image: url("../../../public/clovers.jpg");
+    background-image: url("/clovers.jpg");
     background-size: cover;
     background-position: center;
     background-color: blanchedalmond;
